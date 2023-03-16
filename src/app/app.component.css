@@ -1,0 +1,38 @@
+img {
+    width: 450px!important;
+    height: 250px!important;
+    border-radius: 30%!important;
+}
+
+.btn{
+    margin-left: 10px;
+}
+
+.btncart{
+    color: white;
+    background-color: green;
+    align-items: center;
+    border-radius: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+   
+}
+
+.imgcart{
+   max-width: 100px;
+   max-height: 100px;
+   display: inline-block;
+   text-transform: lowercase;
+    
+}
+
+.finalizarcompra{
+    align-self: center;
+    border-radius: 40px;
+    background-color: green;
+    text-decoration-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    padding: 20px;
+
+}
